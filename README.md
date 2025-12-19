@@ -7,5 +7,5 @@
 ## 2. Tahoe ##
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9177af60-2401-4601-9f55-56526db40787" />
 
-## 1. Fluent ##
+## Fluent ##
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9ca958d8-5d15-4efe-85fb-2d215c2cced1" />
